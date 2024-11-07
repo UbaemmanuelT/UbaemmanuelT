@@ -1,2 +1,38 @@
-# profile
-Hello world! welcome to my Github
+<h4 align="left">👋 Hello! I'm UBA EMMANUEL<br><br>🌐 Frontend Developer | Web Enthusiast<br><br>Passionate about creating dynamic user-friendly, visually appealing, and responsive web applications. With a strong foundation in HTML, CSS, and JavaScript.q I bring designs to life and aim to provide smooth, enjoyable user experiences. Always eager to learn, I keep up-to-date with the latest in frontend technologies and best practices.<br><br>🔹 Skills & Tools:<br><br>Languages: HTML, CSS, JavaScript<br>Frameworks & Libraries: React, Bootstrap, TailwindCSS<br>Tools: Git, Figma, VS Code, <br>Others: Responsive Web Design, Cross-Browser Compatibility, RESTful APIs<br><br>🌱 Currently Learning<br><br>Improving my skills in [TypeScript, Next.js].<br><br>🚀 Projects<br>Explore my repositories to see some of my latest work. I enjoy building everything from small interactive components to fully responsive websites.<br><br>📫 Connect with Me<br>Feel free to reach out! I'm always open to collaboration and connecting with other developers. Let's build something amazing together!</h4>
+
+###
+
+<img align="right" height="130" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTdhaGdodWYzczV6Z2IxMDhqb3c0cnNldzF0dGk3ZDE0cGF4OHJmMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGGDNsLvqsBOhuU0/giphy.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
