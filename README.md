@@ -1,29 +1,38 @@
-<h1 align="center">Hi 👋, I'm UBA EMMANUEL</h1>
-<h3 align="center">🌐 Frontend Developer | Web Enthusiast. Passionate about creating dynamic user-friendly, visually appealing, and responsive web applications. With a strong foundation in HTML, CSS, and JavaScript, I bring designs to life and aim to provide smooth, enjoyable user experiences. Always eager to learn, I keep up-to-date with the latest in frontend technologies and best practices.</h3>
+<h1 align="left">👋 Hello! I'm UBA EMMANUEL</h1> <br><br> <h4>🌐 Frontend Developer | Web Enthusiast<br><br>Passionate about creating dynamic user-friendly, visually appealing, and responsive web applications. With a strong foundation in HTML, CSS, and JavaScript.q I bring designs to life and aim to provide smooth, enjoyable user experiences. Always eager to learn, I keep up-to-date with the latest in frontend technologies and best practices.<br><br>🔹 Skills & Tools:<br><br>Languages: HTML, CSS, JavaScript<br>Frameworks & Libraries: React, Bootstrap, TailwindCSS<br>Tools: Git, Figma, VS Code, <br>Others: Responsive Web Design, Cross-Browser Compatibility, RESTful APIs<br><br>🌱 Currently Learning<br><br>Improving my skills in [TypeScript, Next.js].<br><br>🚀 Projects<br>Explore my repositories to see some of my latest work. I enjoy building everything from small interactive components to fully responsive websites.<br><br>📫 Connect with Me<br>Feel free to reach out! I'm always open to collaboration and connecting with other developers. Let's build something amazing together!</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ubaemmanuelt&label=Profile%20views&color=0e75b6&style=flat" alt="ubaemmanuelt" /> </p>
+###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ubaemmanuelt" alt="ubaemmanuelt" /></a> </p>
+<img align="right" height="130" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTdhaGdodWYzczV6Z2IxMDhqb3c0cnNldzF0dGk3ZDE0cGF4OHJmMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGGDNsLvqsBOhuU0/giphy.gif"  />
 
-- 🌱 I’m currently learning **Typescript, NodeJS**
+###
 
-- 👯 I’m looking to collaborate on **Frontend Projects**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+</div>
 
-- 💬 Ask me about **React, Tailwind, Boostrap**
+###
 
-- 📫 How to reach me **ubaemmanueltochi@gmail.com**
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-- ⚡ Fun fact **The first computer "bug" was a real insect. lmao**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ubaemmanuelt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ubaemmanuelt" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ubaemmanuel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ubaemmanuel" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ubaemmanuelt&show_icons=true&locale=en&layout=compact" alt="ubaemmanuelt" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ubaemmanuelt&show_icons=true&locale=en" alt="ubaemmanuelt" /></p>
+###
